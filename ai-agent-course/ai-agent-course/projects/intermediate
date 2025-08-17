@@ -1,0 +1,77 @@
+# Intermediate Projects for AI Agent Course
+
+This directory contains intermediate-level projects designed to challenge participants and deepen their understanding of AI agent development and operation. Each project focuses on applying the concepts learned in the course modules and encourages hands-on experience with real-world scenarios.
+
+## Project 1: Intelligent Chatbot Development
+
+### Overview
+Develop an intelligent chatbot that can engage in conversations, answer questions, and provide recommendations based on user input. This project will utilize natural language processing (NLP) techniques and machine learning models.
+
+### Objectives
+- Implement a conversational AI model using frameworks like Rasa or Dialogflow.
+- Integrate external APIs for enhanced functionality (e.g., weather, news).
+- Create a user-friendly interface for interaction.
+
+### Deliverables
+- Source code repository
+- Documentation on setup and usage
+- A demo video showcasing the chatbot in action
+
+---
+
+## Project 2: AI-Powered Recommendation System
+
+### Overview
+Build a recommendation system that suggests products or content to users based on their preferences and behavior. This project will involve data analysis, model training, and evaluation.
+
+### Objectives
+- Collect and preprocess data from a chosen domain (e.g., movies, e-commerce).
+- Implement collaborative filtering or content-based filtering algorithms.
+- Evaluate the model's performance using metrics like precision and recall.
+
+### Deliverables
+- Source code repository
+- Documentation on data sources and model evaluation
+- A presentation summarizing findings and insights
+
+---
+
+## Project 3: Automated Data Visualization Tool
+
+### Overview
+Create a tool that automatically generates visualizations from datasets, helping users to quickly interpret data insights. This project will focus on data analysis and visualization libraries.
+
+### Objectives
+- Develop a user interface for uploading datasets.
+- Implement data analysis algorithms to extract key metrics.
+- Use visualization libraries (e.g., Matplotlib, Seaborn) to create interactive charts.
+
+### Deliverables
+- Source code repository
+- User manual for the tool
+- A showcase of visualizations generated from sample datasets
+
+---
+
+## Project 4: AI Model Performance Monitoring Dashboard
+
+### Overview
+Design a dashboard that monitors the performance of deployed AI models in real-time. This project will involve integrating monitoring tools and visualizing performance metrics.
+
+### Objectives
+- Set up a monitoring system using tools like Prometheus and Grafana.
+- Collect performance metrics (e.g., accuracy, latency) from deployed models.
+- Create visualizations to display model performance over time.
+
+### Deliverables
+- Source code repository
+- Documentation on setup and configuration
+- A demo of the monitoring dashboard in action
+
+---
+
+## Getting Started
+
+To begin working on these projects, ensure you have the necessary tools and libraries installed as specified in the `requirements.txt` file. Follow the guidelines provided in each project overview to structure your work and deliverables effectively.
+
+Happy coding!

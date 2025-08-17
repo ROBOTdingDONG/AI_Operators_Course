@@ -1,0 +1,54 @@
+# AI Agent Course Notebooks
+
+This directory contains Jupyter notebooks designed for hands-on exercises and practical applications of the concepts covered in the AI Agent Developer and Operator course. Each notebook is structured to facilitate learning and experimentation with AI agents, providing a comprehensive guide for participants.
+
+## Notebook Structure
+
+### 01_agent_fundamentals.ipynb
+- Overview of AI agents
+- Definitions and types of agents
+- Foundational theories and concepts
+
+### 02_development_practices.ipynb
+- Best practices for coding AI agents
+- Version control with Git
+- Testing methodologies for AI applications
+
+### 03_operator_workflows.ipynb
+- Monitoring and maintaining AI agents
+- Optimization techniques for performance
+- Workflow diagrams and case studies
+
+### 04_intelligent_documentation.ipynb
+- Creating intelligent documentation
+- Tools for automated documentation
+- Techniques for evolving documentation with projects
+
+### 05_visualization_tools.ipynb
+- Introduction to visualization tools
+- Techniques for interpreting AI data
+- Practical examples of model performance visualization
+
+### 06_latest_methodologies.ipynb
+- Overview of cutting-edge methodologies in AI
+- Case studies on recent advancements
+- Discussion on the impact of new practices
+
+### 07_future_guides.ipynb
+- Emerging trends in AI agent development
+- Predictions for future technologies
+- Preparing for the next generation of AI applications
+
+## Usage Instructions
+
+1. Open the desired notebook using Jupyter Notebook or JupyterLab.
+2. Follow the instructions and complete the exercises provided in each section.
+3. Experiment with the code examples to deepen your understanding of AI agent development and operation.
+
+## Additional Resources
+
+- Refer to the `docs` directory for detailed guides and documentation.
+- Utilize the `resources` directory for supplementary materials and tutorials.
+- Engage with the community through discussions and forums for collaborative learning.
+
+Happy coding and learning!

@@ -1,0 +1,5 @@
+pip install tensorflow
+pip install torch
+pip install scikit-learn
+pip install matplotlib seaborn plotly
+pip install mlflow wandb fastapi

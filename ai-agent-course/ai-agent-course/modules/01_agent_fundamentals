@@ -1,0 +1,49 @@
+# AI Agent Fundamentals
+
+## Module Overview
+
+This module covers the foundational concepts of AI agents, providing a comprehensive understanding of what AI agents are, their types, and the theories that underpin their functionality. 
+
+## 🎯 Learning Objectives
+
+By the end of this module, participants will be able to:
+- Define what an AI agent is and its significance in the field of artificial intelligence.
+- Identify and describe different types of AI agents.
+- Understand foundational theories related to AI agents, including rationality, autonomy, and interaction.
+
+## 📚 Key Concepts
+
+### 1. Definition of AI Agents
+An AI agent is an entity that perceives its environment through sensors and acts upon that environment through actuators. Agents can be classified based on their capabilities, autonomy, and the complexity of their decision-making processes.
+
+### 2. Types of AI Agents
+- **Simple Reflex Agents**: Operate on a condition-action rule basis, responding directly to percepts.
+- **Model-Based Reflex Agents**: Maintain an internal state to handle partial observability.
+- **Goal-Based Agents**: Act to achieve specific goals, using search and planning techniques.
+- **Utility-Based Agents**: Make decisions based on a utility function to maximize satisfaction.
+- **Learning Agents**: Improve their performance over time through learning from experiences.
+
+### 3. Foundational Theories
+- **Rationality**: The principle that agents should act in a way that maximizes their expected performance measure.
+- **Autonomy**: The degree to which an agent can operate independently of human intervention.
+- **Interaction**: The ways in which agents communicate and collaborate with other agents and humans.
+
+## 🛠️ Practical Exercises
+
+1. **Define Your Own AI Agent**: Create a simple definition of an AI agent based on your understanding and share it with the class.
+2. **Classify Agents**: Given a list of scenarios, classify each scenario into the appropriate type of AI agent.
+3. **Case Study Analysis**: Analyze a real-world AI agent (e.g., a chatbot or a recommendation system) and identify its type and foundational theories applied.
+
+## 📁 Additional Resources
+
+- [AI Agent Research Papers](resources/)
+- [Interactive AI Agent Examples](notebooks/)
+- [Discussion Forum for Module Queries](docs/)
+
+## 📝 Assessment
+
+Participants will be assessed through a quiz covering the definitions, types, and foundational theories of AI agents. Additionally, a short project will require participants to design a simple AI agent based on the concepts learned in this module.
+
+---
+
+**End of Module 01: AI Agent Fundamentals**
